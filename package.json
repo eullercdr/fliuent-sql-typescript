@@ -1,0 +1,17 @@
+{
+  "name": "builder-erick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest ./dist --runInBand --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3",
+    "typescript": "^4.7.4"
+  }
+}
